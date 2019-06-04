@@ -1,4 +1,4 @@
-# Copyright (C) 2019 Mika Thesephicloud | <https://github.com/TheSephiCloud>.
+# Copyright (C) 2019 Mika Thesephicloud on Lich| <https://github.com/TheSephiCloud>.
 #
 # This file is part of FFlogs-Viewer.
 #
